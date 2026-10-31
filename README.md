@@ -1,2 +1,0 @@
-# gram-panchayat
-gram-panchayat
